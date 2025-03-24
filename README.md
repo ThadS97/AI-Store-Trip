@@ -3,7 +3,7 @@ This is a JavaScript program that simulates an AI agent going to the store, buyi
 
 Perceptrons are one of the fundamental components of neural networks. Neural networks are part of machine learning, which is a subfield of artificial intelligence.
 
-This program uses a few perceptrons to allow the AI agent to make deicisions in the program based on certain factors. The agent has to deal with uncertainity, probability, and 
+This program uses a few perceptrons to allow the AI agent to make decisions in the program based on certain factors. The agent has to deal with uncertainty, probability, and 
 learning from previous decisions to make future decisions to progress. Some user input is required to successfully complete the program.
 
 While this is not as complex as other AI programs out there, writing this program has helped me understand artificial intelligence and machine learning better. I have placed
